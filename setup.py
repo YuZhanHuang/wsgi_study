@@ -12,16 +12,17 @@ DESCRIPTION = "Bumbo Python Web Framework built for learning purposes."
 EMAIL = "bigjoe1992111@gmail.com"
 AUTHOR = "yuzhanhuang1119"
 REQUIRES_PYTHON = ">=3.6.0"
-VERSION = "0.0.2"
+VERSION = "0.0.4"
 
 # Which packages are required for this module to be executed?
 REQUIRED = [
-    "Jinja2==2.10.3",
-    "parse==1.12.1",
-    "requests==2.22.0",
+    "Jinja2==3.1.2",
+    "parse==1.19.0",
+    "requests==2.28.1",
     "requests-wsgi-adapter==0.4.1",
-    "WebOb==1.8.5",
-    "whitenoise==4.1.4",
+    "WebOb==1.8.7",
+    "whitenoise==6.2.0",
+    "markupsafe==2.0.1",
 ]
 
 # The rest you shouldn't have to touch too much :)
