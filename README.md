@@ -10,7 +10,7 @@ It's a WSGI framework and can be used with any WSGI application server such as G
 ## Installation
 
 ```shell
-pip install bumbo
+pip install bumbo-yuzhanhuang1119
 ```
 
 ## How to use it
